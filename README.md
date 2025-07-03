@@ -1,4 +1,4 @@
-# Vision Transformer Autoencoders for Unsupervised Representation Learning: Capturing Local and Global Features in Brain Imaging to Reveal Genetic Associations  
+# Vision Transformer Autoencoders for Unsupervised Representation Learning:  Revealing Novel Genetic Associations through Learned Sparse Attention Patterns  
 This is the official repository accompanying the above paper.  
 
 **Authors:**
